@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal website">
+    <title>Mayuresh Balu Patil - Personal Website</title> 
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Mayuresh Balu Patil</h1> 
+        <p>Welcome to my personal website!</p>
+    </header>
+
+    <!-- About Me Section -->
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>Hello! I'm Mayuresh Balu Patil, a passionate Digital Marketer. I am excited about viewing content on social media platforms. I have a deep interest in ads and creative content. This website is a little bit about me, my education, work experience, and skills. Feel free to explore!</p> 
+    </section>
+
+    <!-- Education Section -->
+    <section id="education">
+        <h2>Education</h2>
+        <ul>  
+            <li><strong>MBA/Qualification:</strong> Digital Marketing Analyst, D.Y Patil, 2025</li> 
+            <li><strong>Degree/Qualification:</strong> BMS in Marketing, BK Birla College of Arts, Commerce and Science, 2023</li>
+            <li><strong>Degree/Qualification:</strong> 12th, Gurunanak English High School and Junior College, 2020</li>
+            <li><strong>Degree/Qualification:</strong> 10th, Shree Gajanan Vidyalaya, 2018</li>
+            <li><strong>Additional Courses/Certifications:</strong> GCC TBC English 30, 40</li> 
+        </ul>
+    </section>
+
+    <!-- Work Experience Section -->
+    <section id="work-experience">
+        <h2>Work Experience</h2>
+        <ul>
+            <li><strong>Job Title:</strong> Trust and Safety Associate - Accenture, 2023 - 2024</li> 
+            <li><strong>Responsibilities:</strong>
+                <ul>
+                    <li>Analyzed social media content.</li>
+                    <li>Interacted professionally with users and team members, enhancing communication and interpersonal skills.</li>
+                    <li>Managed 2 teams and helped improve their performance.</li>
+                    <li>Maintained data on a daily basis in Excel.</li>
+                    <li>Recognized as Star Performer twice for maintaining overall quality.</li>
+                    <li>Familiar with content policy and guidelines on various online platforms (social media, forums, websites).</li>
+                    <li>Displayed strong analytical skills, identifying patterns and trends in user behavior.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li><strong>Technical Skills:</strong>
+                <ul>
+                    <li>Search Engine Optimization (SEO)</li>
+                    <li>Search Engine Marketing (SEM)</li>
+                    <li>Excel</li>
+                    <li>GCC TBC English 30</li>
+                    <li>GCC TBC English 40</li>
+                    <li>PowerPoint</li>
+                    <li>Canva</li>
+                </ul>
+            </li>
+            <li><strong>Soft Skills:</strong>
+                <ul>
+                    <li>Communication</li>
+                    <li>Problem-Solving</li>
+                    <li>Team Management</li>
+                    <li>Time Management</li>
+                </ul>
+            </li>
+            <li><strong>Languages:</strong> English, Hindi, Marathi</li> 
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Mayuresh Balu Patil. All rights reserved.</p> 
+    </footer>
+
+</body>
+</html>
